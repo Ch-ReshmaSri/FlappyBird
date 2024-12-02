@@ -18,5 +18,5 @@ This is a simple and addictive 2D side-scrolling game where you control a bird a
 3. Try to score as high as possible!
 
 ## Controls
-Space Bar: Flap the bird's wings to make it rise.
-Game Over Screen: After the bird dies, you can click Retry to restart the game.
+1. Space Bar: Flap the bird's wings to make it rise.
+2. Game Over Screen: After the bird dies, you can click Retry to restart the game.
