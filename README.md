@@ -16,3 +16,7 @@ This is a simple and addictive 2D side-scrolling game where you control a bird a
 1. Press the spacebar (or tap on mobile) to make the bird flap its wings.
 2. Avoid hitting the pipes or falling off the screen.
 3. Try to score as high as possible!
+
+## Controls
+Space Bar: Flap the bird's wings to make it rise.
+Game Over Screen: After the bird dies, you can click Retry to restart the game.
